@@ -4,4 +4,4 @@ Tecnologias utilizadas:
 *JS
 *BootStrap
 *Icones do FontAwesome
-<img src="https://drive.google.com/file/d/1Vam-cAcATmf1nBomGnySGHkXKcFCng1w/view?usp=drivesdk">
+<img src="./Screenshot_20240801-192034.png">
