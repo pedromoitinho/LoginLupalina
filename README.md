@@ -7,5 +7,6 @@
   <li>JavaScript</li>
   <li>BootStrap</li>
   <li>FontAwesome</li>
+  <li>Figma</li>
 </ul>
 
