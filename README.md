@@ -1,11 +1,11 @@
 <H1>Login Lupalina</H1>
 <img src="./Screenshot_20240801-192034.png" />
 <h3>Tecnologias utilizadas: </h3>
-<ol>
+<ul>
   <li>HTML</li>
-  <ol>CSS</ol>
-  <ol>JavaScript</ol>
-  <ol>BootStrap</ol>
-  <ol>FontAwesome</ol>
-</ol>
+  <li>CSS</li>
+  <li>JavaScript</li>
+  <li>BootStrap</li>
+  <li>FontAwesome</li>
+</ul>
 
