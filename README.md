@@ -1,6 +1,6 @@
 <h1>Login Lupalina</h2>
-<img src="./Screenshot_20240801-192034.png" width="50%"/>
-<img src="Screenshot_20240801-200856.png" width="50%"/>
+<img src="./Screenshot_20240801-192034.png" width="75%"/>
+<img src="Screenshot_20240801-200856.png" width="75%"/>
 <h3>Tecnologias utilizadas: </h3>
 <ul>
   <li>HTML</li>
